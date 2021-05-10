@@ -20,4 +20,4 @@ add any product
 **MongoDB NodeJs ExpressJs .env**
 
 Here live site: [HappyElectro](https://happy-electro.web.app/) <br/>
-You can visit the server site code: [HappyElectro Clint GitHub](https://github.com/ShahriarShubho/happy-electro-cline-site-project)
+You can visit the client site code: [HappyElectro Clint GitHub](https://github.com/ShahriarShubho/happy-electro-cline-site-project)
